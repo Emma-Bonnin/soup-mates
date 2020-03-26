@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Source+Sans+Pro&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+
+
+
+body {
+
+font-family: 'PT Sans', sans-serif;
+font-size: 18px;
+margin: 0px;
+text-justify: center;
+	text-justify: justify;
+}
+
+h1, h2, h3 {
+	font-family: 'Source Sans Pro', serif;
+font-weight: bold;
+
+}
+h1 {
+	font-size: 50px;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Source Sans Pro', serif;
+}
